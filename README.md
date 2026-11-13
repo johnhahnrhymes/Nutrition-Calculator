@@ -29,13 +29,13 @@ Most nutrition apps require accounts, push subscriptions, show ads, or sell your
 
 If this repo has GitHub Pages enabled, you can use the app directly without downloading anything:
 
-https://johnhahnrhymes.github.io//
+https://johnhahnrhymes.github.io/Nutrition-Calculator/
 
 ## Use it on your own device
 
 ### Windows / macOS / Linux
 
-1. Download `Larder.html` from this repo (clickNutrition-Calculator the file, then click the download icon)
+1. Download `Larder.html` from this repo (click the file, then click the download icon)
 2. Double-click the file
 3. It opens in your default browser
 
