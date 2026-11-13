@@ -29,9 +29,7 @@ Most nutrition apps require accounts, push subscriptions, show ads, or sell your
 
 If this repo has GitHub Pages enabled, you can use the app directly without downloading anything:
 
-**https://YOUR-USERNAME.github.io/larder/**
-
-(Replace `YOUR-USERNAME` with the GitHub username this repo lives under.)
+https://johnhahnrhymes.github.io/larder/
 
 ## Use it on your own device
 
