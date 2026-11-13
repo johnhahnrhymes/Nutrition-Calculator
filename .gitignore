@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backups
+*.bak
+*.backup
+
+# User data (don't accidentally commit exported recipes)
+larder_backup_*.json
+larder_recipes_*.json
+
+# Node junk (not needed, but just in case)
+node_modules/
+package-lock.json
